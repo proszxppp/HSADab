@@ -8,12 +8,11 @@ HSADab is the most comprehensive database for binding thermodynamics and all-ato
 
 The database is secured through an extensive literature review of more than 40,000 published contents relevant to HSA, covering 1987 to 2024.06. 
 
-![图片3](https://github.com/user-attachments/assets/1f55b867-58fe-473c-822d-ade8259d7b50)
+![图片1](https://github.com/user-attachments/assets/d255d396-5d80-472d-881a-85985fd30ecd)
 
-The three pillars of HSADab are affinity, structure and docking banks, which makes it possible to grab some understandings about the structure-affinity relationship.  
-The affinity bank contains binding thermodynamics of several thousand ligands towards HSA, with multiple temperature labels available. The structure bank contains all experimentally deposited HSA-related biomacromolecules, including not only the apo form and the ligand- or antibody-bound forms. The docking bank is constructed with the best local docking protocol PLANTS and the deep-learning tool DiffDock. 
+The three pillars of HSADab are affinity, structure and docking banks, which makes it possible to grab some understanding about the structure-affinity relationship. The affinity bank contains binding thermodynamics of several thousand ligands towards HSA, with multiple temperature labels available. The structure bank contains all experimentally deposited HSA-related biomacromolecules, including not only the apo form and the ligand- or antibody-bound forms. The docking bank is constructed with the best local docking protocol PLANTS and the deep-learning tool DiffDock. 
 
-A worth noting phenomenon is the underperformance of AutoDock families in redocking experiments, but such treatment is quite common in published HSA-ligand studies. 
+A worth noting phenomenon is the underperformance of AutoDock families in redocking experiments, which adds caution to its common usage in published HSA-ligand studies. 
 
 ![redock_RMSD_all_lig](https://github.com/user-attachments/assets/e728d865-3b81-423e-ba51-fb03de300515)
 
@@ -21,6 +20,6 @@ HSADab additionally supports affinity predictions with machine-learning predicto
 
 ![RMSE_MAE](https://github.com/user-attachments/assets/2effc1a7-19cd-4621-b95b-e769a0287996)
 
-A fully interactive webserver for HSADab is available on http://www.hsadab.cn/. 
+A fully interactive webserver for HSADab is available at http://www.hsadab.cn/. 
 
 ![图片5](https://github.com/user-attachments/assets/4faa9ce5-f541-4c27-9e68-7527e07cc7a2)
