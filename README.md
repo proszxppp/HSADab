@@ -12,9 +12,11 @@ The database is secured through an extensive literature review of more than 40,0
 
 The three pillars of HSADab are affinity, structure and docking banks, which makes it possible to grab some understanding about the structure-affinity relationship. The affinity bank contains binding thermodynamics of several thousand ligands towards HSA, with multiple temperature labels available. The structure bank contains all experimentally deposited HSA-related biomacromolecules, including not only the apo form and the ligand- or antibody-bound forms. The docking bank is constructed with the best local docking protocol PLANTS and the deep-learning tool DiffDock. 
 
+![redock_RMSD_all_lig](https://github.com/user-attachments/assets/e728d865-3b81-423e-ba51-fb03de300515)
+
 A worth noting phenomenon is the underperformance of AutoDock families in redocking experiments, which adds caution to its common usage in published HSA-ligand studies. 
 
-![redock_RMSD_all_lig](https://github.com/user-attachments/assets/e728d865-3b81-423e-ba51-fb03de300515)
+![ML_architectures](https://github.com/user-attachments/assets/7d8ef4aa-e02c-46bd-be30-154b25fa0cb9)
 
 HSADab additionally supports affinity predictions with machine-learning predictors (the HSA_dG_pred dir). Among graph neural networks, large language models, and fingerprints-based regression models, the most robust and cost-effective one seems to be the regression models built on the fingerprints, which are thus provided in the HSA_dG_pred dir for batch predictions. 
 
