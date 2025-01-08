@@ -10,7 +10,7 @@ The database is secured through an extensive literature review of more than 40,0
 
 ![图片1](https://github.com/user-attachments/assets/d255d396-5d80-472d-881a-85985fd30ecd)
 
-The three pillars of HSADab are affinity, structure and docking banks, which makes it possible to grab some understanding about the structure-affinity relationship. The affinity bank contains binding thermodynamics of several thousand ligands towards HSA, with multiple temperature labels available. The structure bank contains all experimentally deposited HSA-related biomacromolecules, including not only the apo form and the ligand- or antibody-bound forms. The docking bank is constructed with the best local docking protocol PLANTS and the deep-learning tool DiffDock. 
+The three pillars of HSADab are affinity, structure and docking banks, which makes it possible to grab some understanding about the structure-affinity relationship. The affinity bank contains binding thermodynamics of several thousand ligands towards HSA, with multiple temperature labels available. The structure bank contains all experimentally deposited HSA-related biomacromolecules, including not only the apo form and the ligand- or antibody-bound forms. The docking bank is constructed with the best local docking protocol PLANTS, the deep-learning tool DiffDock, and the current SOTA integrative deep-learning structural predictors AlphaFold3, Boltz-1 and Chai-1. Due to the huge size of the docking bank, here we only provide the PLANTS and DiffDock predictions, while those of AlphaFold3, Boltz-1 and Chai-1 are freely available in our HSADab webserver http://www.hsadab.cn/. 
 
 ![redock_RMSD_all_lig](https://github.com/user-attachments/assets/e728d865-3b81-423e-ba51-fb03de300515)
 
