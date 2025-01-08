@@ -1,6 +1,6 @@
 # HSADab
 
-![overview_HSA2025](https://github.com/user-attachments/assets/6d782646-f6ae-42e8-9cda-e10882bb92e7)
+![Fig1](https://github.com/user-attachments/assets/e1b07dfe-c603-4eba-a6d4-b09b9ec4ff02)
 
 HSADab is the most comprehensive database for binding thermodynamics and all-atom structures of human serum albumin. HSA is the most prevalent protein found in plasma, lymph, saliva, cerebrospinal fluid, and interstitial fluid, and covers 60% of the total protein mass in human plasma. A unique feature of HSA is the large number of binding pockets, which makes it possible for external agents of diverse features to be encapsulated. 
 
